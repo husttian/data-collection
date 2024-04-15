@@ -18,7 +18,7 @@ using namespace std;
 #define SUBSINKNUMBER 12
 #define MAX_SUBSINK 100
 #define RANGE 5
- 
+#dedine ABC 15
 
 enum Role {Sensor = 1, Subsink, Sink};   /* 节点的角色定义：感知节点、Subsink节点、Sink节点*/
 
