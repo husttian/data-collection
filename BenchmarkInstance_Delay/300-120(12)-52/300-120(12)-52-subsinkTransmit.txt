@@ -1,0 +1,12 @@
+第1个Subsink的通信距离为：	5
+第2个Subsink的通信距离为：	24
+第3个Subsink的通信距离为：	20
+第4个Subsink的通信距离为：	24
+第5个Subsink的通信距离为：	18
+第6个Subsink的通信距离为：	20
+第7个Subsink的通信距离为：	20
+第8个Subsink的通信距离为：	20
+第9个Subsink的通信距离为：	26
+第10个Subsink的通信距离为：	24
+第11个Subsink的通信距离为：	18
+第12个Subsink的通信距离为：	84
